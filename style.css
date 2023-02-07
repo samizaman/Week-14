@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif; 
+    background-color: #4D5057
+}
+
+.product{
+    border: 1px grey solid;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.checkout-icon{
+    margin-left: 84rem;
+    margin-top: -4rem;
+}
